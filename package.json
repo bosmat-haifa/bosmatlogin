@@ -1,0 +1,20 @@
+{
+  "name": "bosmatlogin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bosmat-haifa/bosmatlogin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bosmat-haifa/bosmatlogin/issues"
+  },
+  "homepage": "https://github.com/bosmat-haifa/bosmatlogin#readme"
+}
